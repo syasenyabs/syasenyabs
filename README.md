@@ -4,7 +4,7 @@ I am studying Computer Engineering at Tarsus Universty.I love improving myself.
 
 ## 🚀 Technologies I’m Working On & Familiar With
 <p align="left">
-<img src="c.png" alt="C" width="100" style="margin-right:10px;"> 
+<img src="c.png" alt="C" width="100" style="margin-right:20px;"> 
 <img src="java.png" alt="Java" width="110">
 <img src="Html.png" alt="HTML" width="150">
 <img src="css.png" alt="CSS" width="82">
