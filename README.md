@@ -56,7 +56,7 @@ I enjoy learning new technologies, developing projects, and continuously improvi
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/sabiha-yasenya-bas">
+<a href="https://www.linkedin.com/in/sabiha-yasenya-baş">
 <img src="https://img.shields.io/badge/LinkedIn-Sabiha%20Yasenya%20Baş-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
