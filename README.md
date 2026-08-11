@@ -44,13 +44,13 @@ I enjoy learning new technologies, developing projects, and continuously improvi
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=syasenyabs&show_icons=true&theme=tokyonight&hide_border=true" />
+<img src="https://github-stats-extended.vercel.app/api?username=syasenyabs&show_icons=true&theme=tokyonight&hide_border=true" />
 
 </p>
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syasenyabs&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=syasenyabs&layout=compact&theme=tokyonight&hide_border=true" />
 
 </p>
 
