@@ -25,7 +25,7 @@ I enjoy learning new technologies, developing projects, and continuously improvi
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,c,cpp,html,css,js,react,pytorch,git,github,vscode,idea" />
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp,asm,riscv,html,css,js,react,pytorch,git,github,vscode,idea" />
 
 </p>
 
