@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=650&lines=Hello%2C+I'm+Sabiha+%F0%9F%91%8B;Computer+Engineering+Student+%F0%9F%92%BB;AI+%26+Software+Development+%F0%9F%A4%96" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Hello%2C+I'm+Sabiha+Yasenya+%F0%9F%91%8B;Computer+Engineering+Student+%F0%9F%92%BB;AI+%26+Software+Development+%F0%9F%A4%96" />
 
 </div>
 
@@ -46,6 +46,10 @@ I enjoy learning new technologies, developing projects, and continuously improvi
 
 <img src="https://github-readme-stats.vercel.app/api?username=syasenyabs&show_icons=true&theme=tokyonight&hide_border=true" />
 
+</p>
+
+<p align="center">
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syasenyabs&layout=compact&theme=tokyonight&hide_border=true" />
 
 </p>
@@ -61,4 +65,3 @@ I enjoy learning new technologies, developing projects, and continuously improvi
 </a>
 
 </p>
-
