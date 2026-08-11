@@ -11,5 +11,5 @@ I am studying Computer Engineering at Tarsus Universty.I love improving myself.
 </p>
 
 ## 📫 Contact
-https://www.linkedin.com/in/sabiha-yasenya-ba%C5%9F-a77185337/
+www.linkedin.com/in/sabiha-yasenya-baş
 
