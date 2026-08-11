@@ -25,12 +25,14 @@ I enjoy learning new technologies, developing projects, and continuously improvi
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,c,cpp,asm,riscv,html,css,js,react,pytorch,git,github,vscode,idea" />
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp,html,css,js,react,pytorch,git,github,vscode,idea" />
 
 </p>
 
 <p align="center">
 
+<img src="https://img.shields.io/badge/Assembly-6E4C13?style=for-the-badge&logo=assemblyscript&logoColor=white" />
+<img src="https://img.shields.io/badge/RISC--V-283272?style=for-the-badge&logo=riscv&logoColor=white" />
 <img src="https://img.shields.io/badge/LLM-🤖-blue?style=for-the-badge" />
 <img src="https://img.shields.io/badge/RAG-🔎-purple?style=for-the-badge" />
 <img src="https://img.shields.io/badge/ChromaDB-🗄️-orange?style=for-the-badge" />
