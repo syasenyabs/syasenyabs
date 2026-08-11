@@ -8,16 +8,16 @@
 
 ### 🚀 About Me
 
-I'm a **Computer Engineering student at Tarsus University**.  
-I enjoy learning new technologies, developing projects, and continuously improving my skills in software development and artificial intelligence.
+I'm a **Computer Engineering student at Tarsus University** with a strong interest in **Artificial Intelligence and software development**. I enjoy learning new technologies, building hands-on projects, and exploring how AI can be applied to real-world problems.
 
-- 💻 Working with **Python, Java, C and C++**
-- 🌐 Developing web applications with **HTML, CSS, JavaScript and React**
-- 🤖 Exploring **Artificial Intelligence, Generative AI and LLMs**
-- 🔎 Working with **RAG (Retrieval-Augmented Generation)**
-- 🧠 Exploring **PyTorch and Machine Learning**
+- 🤖 Focusing on **Artificial Intelligence, Generative AI and Large Language Models (LLMs)**
+- 🔎 Building and experimenting with **RAG (Retrieval-Augmented Generation)** systems
+- 🏠 Developing **Local AI / Local LLM applications**
+- 🧠 Exploring **Machine Learning and PyTorch**
 - 🗄️ Working with **ChromaDB and Vector Databases**
-- 🏠 Developing **Local AI / LLM applications**
+- 💻 Working with **Python, Java, C, C++ and Assembly**
+- ⚙️ Exploring **RISC-V and Computer Architecture**
+- 📚 Continuously improving my skills through **hands-on projects and learning**
 
 ---
 
